@@ -16,12 +16,12 @@ Your solution _must_:
 - Have infinite scroll (loading more images as you scroll).
 - Have a search function based on tags, title and / or description.
 - Have (partial or full) test coverage.
-- Return images that are ‘safe’ for all ages.
+- Use the `safe_search` parameter. 
 
 Although the main outcomes of the task are listed above, if you feel like you want to go that extra mile and show us what you're capable of, here is a list of potential enhancements that we have come up with:
 
 - Think about how you might improve the speed or performance of the page. For example lazy loading the images.
-- Enhance the ‘safe’ feature and filter out images that Flickr passes as ‘safe’ but are not safe.
+- Enhance the `safe_search`.
 - Animations to enhance the user experience, for example a loading icon.
 
 Alternatively if you can think of any other features that you feel would further enhance your app, then we'd love to see what you can come up with!
